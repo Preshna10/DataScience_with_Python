@@ -37,6 +37,7 @@ The repository is organized by week so that progress, exercises, and projects ca
    jupyter notebook
    
 
+---
 
 ### Week1 Structure
 
