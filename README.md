@@ -8,53 +8,69 @@ The repository is organized by week so that progress, exercises, and projects ca
 
 ## Setup Instructions
 
-
 ### Step 1: Clone the Repository
 
-   git clone https://github.com/Preshna10/DataScience_with_Python.git
-
-   cd DataScience_with_Python
-
+```bash
+git clone https://github.com/Preshna10/DataScience_with_Python.git
+cd DataScience_with_Python
+```
 
 ### Step 2: Create Virtual Environment
 
-   python -m venv venw
+```bash
+python -m venv venw
+```
 
-   Activate it:
+Activate the virtual environment:
 
-   Windows: venw\Scripts\activate
+**Windows Command Prompt:**
 
-   Mac/Linux: source venw/bin/activate
+```bash
+venw\Scripts\activate
+```
 
+**Windows PowerShell:**
+
+```powershell
+.\venw\Scripts\Activate.ps1
+```
+
+**Mac/Linux:**
+
+```bash
+source venw/bin/activate
+```
 
 ### Step 3: Install Dependencies
 
-   pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 
 ### Step 4: Start Jupyter Notebook
 
-   jupyter notebook
-   
+```bash
+jupyter notebook
+```
 
 ---
 
-## Week1 Structure
-
+## Week 1 Structure
 
 ```text
-D:\GitHubProjects\DataScience_with_Python\
+DataScience_with_Python/
 │
 ├── README.md
 ├── requirements.txt
 │
-└── Week1\
+└── Week1/
     ├── WEEKLY_LOG.md
     ├── Week1_exercises.ipynb
     ├── Week1_Practice.ipynb
     ├── Week1_Scripts.ipynb
     └── students.txt
-
 ```
 
----
+More details about the tasks completed during Week 1 can be found in:
+
+`Week1/WEEKLY_LOG.md`
