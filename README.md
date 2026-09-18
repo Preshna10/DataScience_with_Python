@@ -30,3 +30,9 @@ The repository is organized by week so that progress, exercises, and projects ca
 ### Step 3: Install Dependencies
 
    pip install -r requirements.txt
+
+
+### Step 4: Start Jupyter Notebook
+
+   jupyter notebook
+   
