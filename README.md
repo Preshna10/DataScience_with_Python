@@ -36,3 +36,21 @@ The repository is organized by week so that progress, exercises, and projects ca
 
    jupyter notebook
    
+
+
+### Week1 Structure
+
+```text
+D:\GitHubProjects\DataScience_with_Python\
+│
+├── README.md
+├── requirements.txt
+│
+└── Week1\
+    ├── WEEKLY_LOG.md
+    ├── Week1_exercises.ipynb
+    ├── Week1_Practice.ipynb
+    ├── Week1_Scripts.ipynb
+    └── students.txt
+
+```
