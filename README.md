@@ -41,6 +41,7 @@ The repository is organized by week so that progress, exercises, and projects ca
 
 ### Week1 Structure
 
+
 ```text
 D:\GitHubProjects\DataScience_with_Python\
 │
