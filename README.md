@@ -6,23 +6,27 @@ The repository is organized by week so that progress, exercises, and projects ca
 
 ---
 
-## Development Environment
+## Setup Instructions
 
-The project uses Python with a virtual environment to keep project dependencies isolated.
 
-### Tools Used
+### Step 1: Clone the Repository
 
-- Python 3
-- Jupyter Notebook
-- Visual Studio Code
-- Git
-- GitHub
+   git clone https://github.com/Preshna10/DataScience_with_Python.git
 
----
+   cd DataScience_with_Python
 
-## Environment Setup
 
-### 1. Clone the Repository
+### Step 2: Create Virtual Environment
 
-```bash
-git clone <repository-url>
+   python -m venv venw
+
+   Activate it:
+
+   Windows: venw\Scripts\activate
+
+   Mac/Linux: source venw/bin/activate
+
+
+### Step 3: Install Dependencies
+
+   pip install -r requirements.txt
