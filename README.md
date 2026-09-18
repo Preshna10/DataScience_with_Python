@@ -39,7 +39,7 @@ The repository is organized by week so that progress, exercises, and projects ca
 
 ---
 
-### Week1 Structure
+## Week1 Structure
 
 
 ```text
