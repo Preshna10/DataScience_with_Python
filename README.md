@@ -64,7 +64,7 @@ DataScience_with_Python/
 ├── requirements.txt
 │
 └── Week1/
-    ├── WEEKLY_LOG.md
+    ├── Week1_Log.pdf
     ├── Week1_exercises.ipynb
     ├── Week1_Practice.ipynb
     ├── Week1_Scripts.ipynb
@@ -73,4 +73,33 @@ DataScience_with_Python/
 
 More details about the tasks completed during Week 1 can be found in:
 
-`Week1/WEEKLY_LOG.md`
+`Week1/Week1_Log.pdf`
+
+
+---
+
+
+## Week 2 Structure
+
+```text
+DataScience_with_Python/
+│
+├── README.md
+├── requirements.txt
+│
+└── Week1/
+|   ├── Week1_Log.pdf
+|   ├── Week1_exercises.ipynb
+|   ├── Week1_Practice.ipynb
+|   ├── Week1_Scripts.ipynb
+|    └── students.txt
+└── Week2/
+    ├── Week2_Log.pdf
+    ├── Creating_Database
+    ├── Ecommerce_Database
+    ├── Practice_Questions
+```
+
+More details about the tasks completed during Week 2 can be found in:
+
+`Week2/Week2_Log.pdf`
