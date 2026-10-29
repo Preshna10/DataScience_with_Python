@@ -104,3 +104,46 @@ DataScience_with_Python/
 More details about the tasks completed during Week 2 can be found in:
 
 `Week2/Week2_Log.pdf`
+
+
+---
+
+
+## Week 3 Structure
+
+```text
+
+DataScience_with_Python/
+│
+├── README.md
+├── requirements.txt
+│
+├── Week1/
+│   ├── Week1_Log.pdf
+│   ├── Week1_exercises.ipynb
+│   ├── Week1_Practice.ipynb
+│   ├── Week1_Scripts.ipynb
+│   └── students.txt
+│
+├── Week2/
+│   ├── Week2_Log.pdf
+│   ├── Creating_Database
+│   ├── Ecommerce_Database
+│   └── Practice_Questions
+│
+└── Week3/
+    ├── Week3_Log.pdf
+    ├── NumPy_exercise.ipynb
+    ├── DataWrangling_with_Pandas.ipynb
+    ├── titanic.csv
+    └── titanic_analysis_ready.csv
+
+```
+
+More details about the tasks completed during Week 3 can be found in:
+
+`Week3/Week3_Log.pdf`
+
+
+---
+
