@@ -147,3 +147,47 @@ More details about the tasks completed during Week 3 can be found in:
 
 ---
 
+
+## Week 4 Structure
+
+```text
+
+DataScience_with_Python/
+│
+├── README.md
+├── requirements.txt
+│
+├── Week1/
+│   ├── Week1_Log.pdf
+│   ├── Week1_exercises.ipynb
+│   ├── Week1_Practice.ipynb
+│   ├── Week1_Scripts.ipynb
+│   └── students.txt
+│
+├── Week2/
+│   ├── Week2_Log.pdf
+│   ├── Creating_Database
+│   ├── Ecommerce_Database
+│   └── Practice_Questions
+│
+├── Week3/
+│   ├── Week3_Log.pdf
+│   ├── NumPy_exercise.ipynb
+│   ├── DataWrangling_with_Pandas.ipynb
+│   ├── titanic.csv
+│   └── titanic_analysis_ready.csv
+│
+└── Week4/
+    ├── Project.ipynb
+    ├── Statistics_and_Probability_Notes.pdf
+    └── Week4_Log.pdf
+
+```
+
+More details about the tasks completed during Week 4 can be found in:
+
+`Week4/Week4_Log.pdf`
+
+
+---
+
